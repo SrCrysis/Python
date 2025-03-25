@@ -9,4 +9,4 @@ else:
 
 print("fuera del if")
 
-prit("hola")
+print("hola")

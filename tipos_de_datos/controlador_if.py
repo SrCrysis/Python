@@ -8,4 +8,5 @@ else:
      print("Desaprobado")
 
 print("fuera del if")
-print ("prueba vro")
+
+prit("hola")
